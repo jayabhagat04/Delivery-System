@@ -1,0 +1,43 @@
+{
+  "agents": {
+    "A1": {
+      "packages_delivered": [],
+      "package_count": 0,
+      "total_distance": 0.0,
+      "efficiency": 0.0
+    },
+    "A2": {
+      "packages_delivered": [
+        "P4"
+      ],
+      "package_count": 1,
+      "total_distance": 37.66,
+      "efficiency": 37.66
+    },
+    "A3": {
+      "packages_delivered": [
+        "P3",
+        "P6",
+        "P7",
+        "P8",
+        "P9",
+        "P10"
+      ],
+      "package_count": 6,
+      "total_distance": 233.82,
+      "efficiency": 38.97
+    },
+    "A4": {
+      "packages_delivered": [
+        "P1",
+        "P2",
+        "P5"
+      ],
+      "package_count": 3,
+      "total_distance": 72.35,
+      "efficiency": 24.12
+    }
+  },
+  "best_agent": "A4",
+  "total_packages": 10
+}
